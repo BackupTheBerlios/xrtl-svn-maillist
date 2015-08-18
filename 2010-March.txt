@@ -1,0 +1,12 @@
+From portret at ngs.ru  Mon Mar 15 07:49:50 2010
+From: portret at ngs.ru (=?KOI8-R?Q?=F7=CC=C1=C4=C9=CD=C9=D2?=)
+Date: Mon, 15 Mar 2010 12:49:50 +0600
+Subject: [xrtl-svn] Delphi7 novice
+Message-ID: <web-73807248@mx6.intranet.ru>
+
+Hi, collegues!
+Can You help me about: how can I install xrtl on Delphi7?
+I'm novice in Delphi...
+Thanks/
+
+
